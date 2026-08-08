@@ -6,8 +6,8 @@ I use **ML · RAG · Data · Agent** to solve these challenges and build systems
 
 ### My Projects
 
-**Hospitality marketplace connecting hosts and guests : **  
+**Hospitality marketplace connecting hosts and guess :**  
 ML-Product · RAG-Marketing · Data-Growth · Agent-Customer-Support
 
-**Financial marketplace connecting depositors and borrowers : **  
+**Financial marketplace connecting depositors and borrowers :**  
 AI-Native-Internet-Banking
