@@ -1,8 +1,8 @@
 ### Hey, I'm Suhyeon Moon 👋
 
-**Connecting two sides of a marketplace is not enough to make transactions happen.** Platforms need to balance demand and supply, make information easy to find, drive conversions, and resolve problems after the transaction.
+I've built on both sides of two-sided marketplaces — balancing supply and demand, making information easy to find, driving conversions, and resolving what breaks after the transaction.
 
-I use **ML · RAG · Data · Agents** to tackle these challenges and build systems that enable smooth transactions.
+The hard part is rarely one side — it's connecting them. **ML, RAG, data pipelines, and agents** are how I do that.
 
 ### My Projects
 
