@@ -1,10 +1,10 @@
 ### Hey, I'm Suhyeon Moon 👋
 
-I've built systems across two-sided marketplaces — balancing supply and demand, making information easier to find, driving conversions, and resolving post-transaction friction.
+I've built systems for **two-sided marketplaces** — balancing supply and demand, making information easier to find, driving conversions, and resolving post-transaction friction.
 
-The challenge is never just one side — it's the connection, often defined by the costs supply bears or the risks demand carries.
+The challenge is never just one side — **it's the connection**, often defined by the costs supply bears or the risks demand carries.
 
-I use **ML · RAG · Data · Agent** to solve these challenges and build systems that help transactions happen smoothly.
+I use **ML · RAG · Data · Agents** to solve these challenges and build systems that help transactions happen smoothly.
 
 ### Featured Projects
 
