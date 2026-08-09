@@ -1,6 +1,6 @@
 ### Hey, I'm Suhyeon Moon 👋
 
-I've built on both sides of two-sided marketplaces — balancing supply and demand, making information easy to find, driving conversions, and resolving post-transaction friction.
+I've built systems across two-sided marketplaces — balancing supply and demand, making information easier to find, driving conversions, and resolving post-transaction friction.
 
 The challenge is never just one side — it's the connection, often defined by the costs supply bears or the risks demand carries.
 
