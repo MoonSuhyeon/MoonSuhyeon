@@ -1,6 +1,6 @@
 ### Hey, I'm Suhyeon Moon 👋
 
-**I've built on both sides of two-sided marketplaces** — balancing supply and demand, making information easy to find, driving conversions, and resolving what breaks after the transaction.
+I've built on both sides of two-sided marketplaces — balancing supply and demand, making information easy to find, driving conversions, and resolving what breaks after the transaction.
 
 The hard part is rarely one side — it's connecting them. **ML, RAG, data pipelines, and agents** are how I do that.
 
