@@ -6,7 +6,7 @@ The challenge is never just one side — it's the connection, often defined by t
 
 I use **ML · RAG · Data · Agent** to solve these challenges and build systems that help transactions happen smoothly.
 
-### My Projects
+### Featured Projects
 
 **Hospitality marketplace connecting hosts and guests — the cost side**  
 [ML-Product](https://github.com/MoonSuhyeon/ML-Product) · [RAG-Marketing](https://github.com/MoonSuhyeon/RAG-Marketing) · [Data-Growth](https://github.com/MoonSuhyeon/Data-Growth) · [Agent-Customer-Support](https://github.com/MoonSuhyeon/Agent-Customer-Support)
