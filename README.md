@@ -8,8 +8,6 @@ I use **ML · RAG · Data · Agent** to solve these challenges and build systems
 
 ### My Projects
 
-**Hospitality marketplace connecting hosts and guests — the cost side**  
-[ML-Product](https://github.com/MoonSuhyeon/ML-Product) · [RAG-Marketing](https://github.com/MoonSuhyeon/RAG-Marketing) · [Data-Growth](https://github.com/MoonSuhyeon/Data-Growth) · [Agent-Customer-Support](https://github.com/MoonSuhyeon/Agent-Customer-Support)
+**Hospitality marketplace connecting hosts and guests — the cost side**: [ML-Product](https://github.com/MoonSuhyeon/ML-Product) · [RAG-Marketing](https://github.com/MoonSuhyeon/RAG-Marketing) · [Data-Growth](https://github.com/MoonSuhyeon/Data-Growth) · [Agent-Customer-Support](https://github.com/MoonSuhyeon/Agent-Customer-Support)
 
-**Financial marketplace connecting depositors and borrowers — the risk side**  
-[AI-Native-Internet-Banking-Platform](https://github.com/MoonSuhyeon/AI-Native-Internet-Banking-Platform)
+**Financial marketplace connecting depositors and borrowers — the risk side**: [AI-Native-Internet-Banking-Platform](https://github.com/MoonSuhyeon/AI-Native-Internet-Banking-Platform)
